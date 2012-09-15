@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpMessageHandlerStub", "HttpMessageHandlerStub\HttpMessageHandlerStub.csproj", "{7A0124EE-9844-4311-B842-3F9F60FB8B6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleTests", "SampleTests\SampleTests.csproj", "{692FF786-BA9F-4B53-AB90-869DD012B64B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleClient", "SampleClient\SampleClient.csproj", "{564F485F-6AE2-463A-A0D2-D5DA19F72483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A0124EE-9844-4311-B842-3F9F60FB8B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0124EE-9844-4311-B842-3F9F60FB8B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0124EE-9844-4311-B842-3F9F60FB8B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0124EE-9844-4311-B842-3F9F60FB8B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{692FF786-BA9F-4B53-AB90-869DD012B64B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692FF786-BA9F-4B53-AB90-869DD012B64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692FF786-BA9F-4B53-AB90-869DD012B64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692FF786-BA9F-4B53-AB90-869DD012B64B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{564F485F-6AE2-463A-A0D2-D5DA19F72483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564F485F-6AE2-463A-A0D2-D5DA19F72483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564F485F-6AE2-463A-A0D2-D5DA19F72483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564F485F-6AE2-463A-A0D2-D5DA19F72483}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
